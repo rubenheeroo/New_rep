@@ -1,19 +1,4 @@
 
-language : python
-
-
-
-sudo : required
-dist : xenial
-
-python:
--3.6
-
-
-install:
-
-script:
-- python New_rep.py
 
 #c'est géniale!!!!!!!!!!!!
 
