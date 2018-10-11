@@ -12,4 +12,4 @@ python:
 install:
 
 script:
-- python app-test.py
+- python New_rep.py
