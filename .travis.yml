@@ -4,4 +4,4 @@ python:
  - 3.6
 
 script:
- - python New_rep.py
+ - python calculeScore.py
